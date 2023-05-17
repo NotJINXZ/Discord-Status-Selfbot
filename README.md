@@ -2,11 +2,11 @@
 
 # Custom Discord Status
 
-Custom Discord Status is a Python-based Discord bot that allows you to set and cycle through custom status messages for multiple Discord bots. It provides flexibility in defining status names, types, and streaming URLs, allowing you to personalize the presence of your discord account.
+Custom Discord Status is a Python-based tool that allows you to set and cycle through custom status messages for multiple Discord accounts. It provides flexibility in defining status names, types, and streaming URLs, allowing you to personalize the presence of your discord account.
 
 ## Features
 
-- Set and cycle through custom status messages for multiple Discord bots
+- Set and cycle through custom status messages for multiple Discord accounts
 - Support for various status types: "Playing", "Streaming", "Listening to", and "Watching"
 - Customizable time interval between status changes
 - Ability to set a streaming URL for streaming statuses
@@ -15,8 +15,8 @@ Custom Discord Status is a Python-based Discord bot that allows you to set and c
 ## Getting Started
 
 1. Run the program to generate a default `config.json` file.
-2. Customize the `config.json` file with your Discord bot tokens, desired status names, types, and streaming URL.
-3. Run the bot to start cycling through the defined statuses for your discord account.
+2. Customize the `config.json` file with your Discord tokens, desired status names, types, and streaming URL.
+3. Run the file to start cycling through the defined statuses for your discord account.
 
 ## License
 
